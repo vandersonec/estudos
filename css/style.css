@@ -66,6 +66,34 @@ footer{
     padding: 0px;
     
 }
+nav{
+    background-color: #404e4dff;
+    padding: 1px;
+}    
+.menu{
+    list-style-type: none;
+    margin: auto;
+    padding: 5px;
+    display: block;
+    text-align: center;
+}
+.menu li{
+    display: inline;
+    padding: 6px;
+    background-color: rgb(38, 46, 45);
+    border-radius: 5px;
+}
+.a-menu{
+    color: #d3c7a2;
+}
+.a-menu:hover{
+    text-decoration: none;
+    color: #e9deb9;
+}
+.menu li:hover{
+    background-color: rgb(24, 29, 28);
+}
+
 
 
 
